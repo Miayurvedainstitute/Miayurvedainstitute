@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MI Ayurveda Academy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .intro {
+            text-align: center;
+        }
+        .courses {
+            margin: 20px 0;
+        }
+        .contact {
+            background-color: #f1f1f1;
+            padding: 10px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to MI Ayurveda Academy</h1>
+    </header>
+    <div class="container">
+        <section class="intro">
+            <h2>About Us</h2>
+            <p>At MI Ayurveda Academy, we offer the best Ayurveda courses in Kerala. Our mission is to provide top-quality education and training in the ancient science of Ayurveda, helping our students to excel in their careers and promote holistic health and wellness.</p>
+        </section>
+        <section class="courses">
+            <h2>Our Courses</h2>
+            <ul>
+                <li>Basic Ayurveda Principles</li>
+                <li>Advanced Ayurveda Practices</li>
+                <li>Ayurvedic Diet and Nutrition</li>
+                <li>Herbal Medicine and Remedies</li>
+                <li>Ayurvedic Massage and Therapy</li>
+                <li>Yoga and Meditation Techniques</li>
+            </ul>
+        </section>
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p>Phone: 9948200054</p>
+            <p>Email: info@miayurvedaacademy.com</p>
+            <p>Follow us on social media:</p>
+            <p>Facebook | Twitter | Instagram</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 MI Ayurveda Academy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
